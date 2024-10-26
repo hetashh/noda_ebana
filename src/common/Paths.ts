@@ -11,7 +11,7 @@ export default {
     Update: "/update",
     Delete: "/delete/:id",
   },
-  Examples: {
+  Example: {
     Base: "/example",
     Get: "/example/all",
     Add: "/example/add",

@@ -19,20 +19,16 @@
       "created": "2024-03-22T05:42:18.895Z"
     }
   ],
-  "examples": [{
-    "id":1,
-    "name":"Lisa"
-  },
-  {
-    "id":2,
-    "name":"Vasya"
-  },
-  {
-    "id":3,
-    "name":"Barsik"
-  },
-  {
-    "id":4,
-    "name":"Strauss"
-  }]
+
+
+"examples": [
+    {
+      "id": 143027113460,
+      "name": "Sonic "
+    },
+    {
+      "id": 143027113460,
+      "name": "Knickles "
+    }
+  ]
 }
